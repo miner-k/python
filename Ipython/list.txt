@@ -1,0 +1,1 @@
+install_ipython.sh     install Ipython with Internet(centos >= 7.0)
